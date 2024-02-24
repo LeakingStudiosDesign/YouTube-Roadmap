@@ -6,6 +6,7 @@ To create a request, please choose the appropiate topic below.
 Then create a new issue there.  
 ![grafik](https://github.com/LeakingStudiosDesign/YouTube-Roadmap/assets/161138101/7105f61d-4062-4b4d-844f-8084602d7466)
 
+[All Categories](https://github.com/LeakingStudiosDesign/YouTube-Roadmap/milestones)
 
 ### Series
 * [Getting Started Series](https://github.com/LeakingStudiosDesign/YouTube-Roadmap/milestone/1)
