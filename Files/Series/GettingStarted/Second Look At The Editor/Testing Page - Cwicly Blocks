@@ -1,0 +1,47 @@
+<!-- wp:cwicly/section {"uniqueID":"9922308d-7bd1-48bf-9f69-82f416bd11ff","classID":"section-cbd11ff","id":"section-c992230","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<section class="{shell=ui59bqji1} cc-sct"><!-- wp:cwicly/paragraph {"content":"Section","uniqueID":"1f4dead1-d5c9-4cea-b6e6-ab0abcf609c0","classID":"paragraph-cf609c0","id":"paragraph-c1f4dea","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<p class="{shell=ui59bqji1}">Section</p>
+<!-- /wp:cwicly/paragraph -->
+
+<!-- wp:cwicly/container {"uniqueID":"a08ee42a-9104-43dc-8d49-e7619e75278b","classID":"container-c75278b","id":"container-ca08ee4","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<div class="{shell=ui59bqji1} cc-cntr"><!-- wp:cwicly/paragraph {"content":"Container","uniqueID":"75db8dbc-2ca8-4eee-8f99-daeaa6922787","classID":"paragraph-c922787","id":"paragraph-c75db8d","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<p class="{shell=ui59bqji1}">Container</p>
+<!-- /wp:cwicly/paragraph -->
+
+<!-- wp:cwicly/heading {"content":"Heading","uniqueID":"6d5a092c-a4d7-4898-9455-6ef69f82eea4","classID":"heading-c82eea4","id":"heading-c6d5a09","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<h1 class="{shell=ui59bqji1}">Heading</h1>
+<!-- /wp:cwicly/heading --></div>
+<!-- /wp:cwicly/container --></section>
+<!-- /wp:cwicly/section -->
+
+<!-- wp:cwicly/section {"uniqueID":"b5a6ebed-c466-4403-93fa-aafb1facde08","classID":"section-cacde08","id":"section-cb5a6eb","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<section class="{shell=ui59bqji1} cc-sct"><!-- wp:cwicly/paragraph {"content":"Section","uniqueID":"70ae71b5-50b0-46ed-8516-ea1ac8d63ef0","classID":"paragraph-cd63ef0","id":"paragraph-c70ae71","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<p class="{shell=ui59bqji1}">Section</p>
+<!-- /wp:cwicly/paragraph -->
+
+<!-- wp:cwicly/container {"uniqueID":"33915cde-4aef-4486-9de5-0963ad89a6c2","classID":"container-c89a6c2","id":"container-c33915c","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<div class="{shell=ui59bqji1} cc-cntr"><!-- wp:cwicly/paragraph {"content":"Container","uniqueID":"71f3194b-f300-4c76-836a-c7633d19117b","classID":"paragraph-c19117b","id":"paragraph-c71f319","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<p class="{shell=ui59bqji1}">Container</p>
+<!-- /wp:cwicly/paragraph -->
+
+<!-- wp:cwicly/heading {"content":"Body","uniqueID":"2ee322c1-d51e-4bb4-9a7f-c9b02b43882b","classID":"heading-c43882b","id":"heading-c2ee322","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<h1 class="{shell=ui59bqji1}">Body</h1>
+<!-- /wp:cwicly/heading --></div>
+<!-- /wp:cwicly/container --></section>
+<!-- /wp:cwicly/section -->
+
+<!-- wp:cwicly/section {"uniqueID":"724767dd-dfd1-47b2-a804-08c2a2f3cdd7","classID":"section-cf3cdd7","id":"section-c724767","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<section class="{shell=ui59bqji1} cc-sct"><!-- wp:cwicly/paragraph {"content":"Section","uniqueID":"9c987499-9118-4863-9a22-6c6e90be0e30","classID":"paragraph-cbe0e30","id":"paragraph-c9c9874","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<p class="{shell=ui59bqji1}">Section</p>
+<!-- /wp:cwicly/paragraph -->
+
+<!-- wp:cwicly/container {"uniqueID":"fa37f62f-7f57-4086-bf4c-addd8fa7ff21","classID":"container-ca7ff21","id":"container-cfa37f6","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<div class="{shell=ui59bqji1} cc-cntr"><!-- wp:cwicly/paragraph {"content":"Container","uniqueID":"c4065e21-11cf-4de0-8275-eb27779f8955","classID":"paragraph-c9f8955","id":"paragraph-cc4065e","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<p class="{shell=ui59bqji1}">Container</p>
+<!-- /wp:cwicly/paragraph -->
+
+<!-- wp:cwicly/heading {"content":"Footer","uniqueID":"3a869403-2f6c-4c67-ab4d-b80db6adbaa0","classID":"heading-cadbaa0","id":"heading-c3a8694","additionalClass":[{"value":"ui59bqji1","isLinked":true,"isShell":true}],"additionalClassesR":"{shell=ui59bqji1}"} -->
+<h1 class="{shell=ui59bqji1}">Footer</h1>
+<!-- /wp:cwicly/heading --></div>
+<!-- /wp:cwicly/container --></section>
+<!-- /wp:cwicly/section -->
